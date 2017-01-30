@@ -1,5 +1,44 @@
-p { display: inline }
+p, h4 {
+        display: inline;
+        margin-left:3em;
+ }
+ .bold {
+         display: inline;
 
+ }
+.tab {
+        float: right;
+        clear: right;
+}
+.experience p {
+        font-style: italic;
+}
+.tufts {
+        display: inline;
+}
+.education #tab{
+        float: right;
+
+}
+.activities p {
+        font-style: italic;
+}
+.tufts:after {
+        content: '\A';
+        white-space:pre;
+}
+.skills h3 {
+        margin-top: -10px;
+}
+li {
+        margin-left:5em;
+}
+ul {
+        display:inline;
+}
+.header, .bio, .index {
+        text-align: center;
+}
 body {
     background-color: lightblue;
 }
