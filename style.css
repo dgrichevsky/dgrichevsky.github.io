@@ -20,6 +20,14 @@ p, h4 {
         float: right;
 
 }
+.experience #tab{
+        float: right;
+        font-style:normal;
+}
+.activities #tab{
+        float: right;
+        font-style:normal;
+}
 .activities p {
         font-style: italic;
 }
