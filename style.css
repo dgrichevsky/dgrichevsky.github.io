@@ -15,19 +15,6 @@ p, h4 {
         font-style: italic;
 }
 
-.education #tab{
-        float: right;
-
-}
-.experience #tab{
-        float: right;
-        font-style:normal;
-}
-.activities #tab{
-        float: right;
-        font-style:normal;
-}
-
 .tufts:after {
         content: '\A';
         white-space:pre;
