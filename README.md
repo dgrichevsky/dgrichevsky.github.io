@@ -11,4 +11,4 @@ bio.html: This page contains a short description and picture of myself.
 
 style.css: stylesheet for html
 
-I spent approximately 5 hours on this assignment and collaborated with Will Edmonds to set up the environment. 
+I spent approximately 5 hours on this assignment and collaborated with Will Edmonds to set up the environment.
